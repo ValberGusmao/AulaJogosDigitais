@@ -1,0 +1,480 @@
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\mscorlib.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\netstandard.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.AppContext.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Collections.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.ComponentModel.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Console.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Core.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Data.Common.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Data.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Drawing.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Globalization.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.IO.Compression.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.IO.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.IO.Pipes.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Linq.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Net.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Net.Http.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Net.Ping.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Net.Primitives.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Net.Requests.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Net.Security.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Net.Sockets.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Numerics.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.ObjectModel.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Reflection.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Resources.Reader.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Resources.Writer.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Runtime.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Security.Claims.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Security.Principal.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Security.SecureString.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Text.Encoding.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Threading.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Threading.Thread.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Threading.Timer.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Transactions.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.ValueTuple.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Web.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Windows.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Xml.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Xml.Serialization.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Xml.XPath.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEditor.Purchasing.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.Purchasing.pdb
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEditor.Purchasing.pdb
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\Unity.TextMeshPro.pdb
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\obj\Debug\Assembly-CSharp.dll
+C:\Users\Estudante\Documents\Projetos Unity\Aula21-03\obj\Debug\Assembly-CSharp.pdb
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\Assembly-CSharp.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\mscorlib.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\netstandard.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\nunit.framework.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.AppContext.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Collections.Concurrent.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Collections.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Collections.NonGeneric.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Collections.Specialized.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.ComponentModel.Composition.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.ComponentModel.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Console.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Core.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Data.Common.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Data.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Diagnostics.Debug.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Diagnostics.Process.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Diagnostics.Tools.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Drawing.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Drawing.Primitives.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Dynamic.Runtime.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Globalization.Calendars.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Globalization.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Globalization.Extensions.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.IO.Compression.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.IO.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.IO.FileSystem.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.IO.Pipes.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Linq.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Linq.Expressions.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Linq.Parallel.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Linq.Queryable.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Net.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Net.Http.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Net.NameResolution.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Net.NetworkInformation.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Net.Ping.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Net.Primitives.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Net.Requests.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Net.Security.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Net.Sockets.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Net.WebSockets.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Numerics.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Numerics.Vectors.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.ObjectModel.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Reflection.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Reflection.Extensions.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Reflection.Primitives.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Resources.Reader.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Resources.ResourceManager.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Resources.Writer.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Runtime.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Runtime.Extensions.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Runtime.Handles.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Runtime.InteropServices.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Runtime.Numerics.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Security.Claims.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Security.Principal.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Security.SecureString.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.ServiceModel.Web.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Text.Encoding.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Text.RegularExpressions.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Threading.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Threading.Overlapped.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Threading.Tasks.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Threading.Thread.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Threading.ThreadPool.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Threading.Timer.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Transactions.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.ValueTuple.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Web.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Windows.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Xml.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Xml.Linq.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Xml.Serialization.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Xml.XDocument.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Xml.XmlDocument.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Xml.XPath.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\Unity.Locator.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEditor.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEditor.Purchasing.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.UI.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.VFXModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\Unity.Cecil.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\Unity.DataContract.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\ExCSS.Unity.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\Unity.IvyParser.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\Unity.CecilTools.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEditor.xml
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.Purchasing.pdb
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEditor.Purchasing.pdb
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\Unity.TextMeshPro.pdb
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\UNITY_PROJECTS\Aula_JogosDigitais\Temp\bin\Debug\nunit.framework.xml
+C:\UNITY_PROJECTS\Aula_JogosDigitais\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\UNITY_PROJECTS\Aula_JogosDigitais\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\UNITY_PROJECTS\Aula_JogosDigitais\obj\Debug\Assembly.44154EF1.Up2Date
+C:\UNITY_PROJECTS\Aula_JogosDigitais\obj\Debug\Assembly-CSharp.dll
+C:\UNITY_PROJECTS\Aula_JogosDigitais\obj\Debug\Assembly-CSharp.pdb
