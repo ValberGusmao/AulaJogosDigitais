@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -7,6 +8,11 @@ public class Inimigo : MonoBehaviour
     private Rigidbody2D rigidbody2d;
     private bool isGround = false;
     private bool right = true;
+    private Vector2 lastMove;
+    private int damage = 1;
+
+    public static event Action<int, Vector2> onAtack;
+
     public float speed;
 
     // Start is called before the first frame update
@@ -26,6 +32,7 @@ public class Inimigo : MonoBehaviour
             }
             else
                 rigidbody2d.velocity = new Vector2(-speed, rigidbody2d.velocity.y);
+            lastMove = rigidbody2d.velocity;
         }
     }
 
@@ -37,6 +44,7 @@ public class Inimigo : MonoBehaviour
         }
         else if (collision.gameObject.CompareTag("Player"))
         {
+            onAtack.Invoke(damage, lastMove);
             right = !right; 
         }
 

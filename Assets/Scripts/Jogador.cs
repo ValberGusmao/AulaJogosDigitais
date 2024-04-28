@@ -7,17 +7,17 @@ using UnityEngine.Experimental.UIElements.StyleEnums;
 public class Jogador : MonoBehaviour
 {
     public enum CharacterStates
-    {
-        Idle,
-        Walking,
+    {   Hit,
         Run,
-        Jumping,
+        Idle,
         Dead,
-        None
+        None,
+        Walking
     }
 
     private SpriteRenderer spriteRender;
     private Rigidbody2D rigidbody2D;
+    private float hitForce = 20;
     private Animator anime;
 
     private CharacterStates state = CharacterStates.Idle;
@@ -30,102 +30,140 @@ public class Jogador : MonoBehaviour
     private const float timerRun = 1.25f;
     private float startTimer = 0f;
     private float timerAux = 0f;
+
+    private float lastMove;
     private float speed;
     private float boost;
-    private float lastMove;
 
-    void Start()
+    private bool isJump;
+
+    void Awake()
     {
         anime = GetComponent<Animator>();
         spriteRender = GetComponent<SpriteRenderer>();
         rigidbody2D = GetComponent<Rigidbody2D>();
+    }
+
+    void Start()
+    {
         speed = speedBase;
+        Inimigo.onAtack += HitEffect;
     }
 
     void Move()
     {
         //TODO Quando o personagem troca de direção ele para de correr
-        float moveH = Input.GetAxis("Horizontal");
 
-        if (moveH != 0 && Math.Abs(moveH) >= Math.Abs(lastMove))
+        if (state != CharacterStates.Hit)
         {
-            if (state != CharacterStates.Jumping)
+            float moveH = Input.GetAxis("Horizontal");
+            if (moveH != 0 && Math.Abs(moveH) >= Math.Abs(lastMove))
             {
-                timerAux = Time.time;
-            }
-            if ((timerAux - startTimer) >= timerRun)
-                boost = 1.3f;
-            else
-                boost = 0.75f;
+                if (!isJump)
+                    timerAux = Time.time;
 
-            speed = speedBase * boost * moveH;
-            if (speed > 0)
-            {
-                spriteRender.flipX = false;
-                camera.MoveCamera(5 * Vector3.right);
+                if ((timerAux - startTimer) >= timerRun)
+                    state = CharacterStates.Run;
+                else
+                    state = CharacterStates.Walking;
+
+                speed = speedBase * boost * moveH;
+                if (moveH > 0)
+                {
+                    spriteRender.flipX = false;
+                    camera.MoveCamera(5 * Vector3.right);
+                }
+                else
+                {
+                    spriteRender.flipX = true;
+                    camera.MoveCamera(5 * Vector3.left);
+                }
+                rigidbody2D.velocity = new Vector2(speed, rigidbody2D.velocity.y);
             }
-            else
+            //Personagem está parado
+            else if (!isJump)
             {
-                spriteRender.flipX = true;
-                camera.MoveCamera(5 * Vector3.left);
+                camera.MoveCamera(Vector3.zero);
+                state = CharacterStates.Idle;
+                startTimer = Time.time;
+                timerAux = startTimer;
             }
-            rigidbody2D.velocity = new Vector2(speed, rigidbody2D.velocity.y);
-        }
-        //Personagem está parado
-        else if (state != CharacterStates.Jumping)
-        {
-            camera.MoveCamera(Vector3.zero);
-            startTimer = Time.time;
-            timerAux = startTimer;
-            boost = 0;
-        }
-        if (state != CharacterStates.Jumping && state != CharacterStates.Dead)
             MoveState();
-        lastMove = moveH;
+            lastMove = moveH;
+        }
     }
 
     void MoveState()
     {
-        switch (boost)
+        switch (state)
         {
-            case 0:
-                state = CharacterStates.Idle; break;
-            case 0.75f:
-                state = CharacterStates.Walking; break;
-            case 1.3f:
-                state = CharacterStates.Run; break;
+            case CharacterStates.Idle:
+                boost = 0; break;
+            case CharacterStates.Walking:
+                boost = 1; break;
+            case CharacterStates.Run:
+                boost = 1.6f; break;
         }
     }
 
     void Animation()
     {
-        switch (state)
+        if (isJump)
+            anime.SetBool("Jump", true);
+        else
         {
-            case CharacterStates.Idle:
-                anime.SetInteger("Move", 0);
-                break;
-            case CharacterStates.Walking:
-                anime.SetInteger("Move", 1);
-                break;
-            case CharacterStates.Run:
-                anime.SetInteger("Move", 2);
-                break;
-            case CharacterStates.Jumping:
-                anime.SetBool("Jump", true);
-                break;
-            case CharacterStates.Dead:
-                anime.SetTrigger("Dead");
-                break;
+            switch (state)
+            {
+                case CharacterStates.Idle:
+                    anime.SetInteger("Move", 0);
+                    break;
+                case CharacterStates.Walking:
+                    anime.SetInteger("Move", 1);
+                    break;
+                case CharacterStates.Run:
+                    anime.SetInteger("Move", 2);
+                    break; ;
+                case CharacterStates.Dead:
+                    anime.SetTrigger("Dead");
+                    state = CharacterStates.None;
+                    break;
+            }
         }
     }
 
     void Jump()
     {
-        if (Input.GetKey("w") && state != CharacterStates.Jumping)
+        if (Input.GetKey("w") && !isJump && state != CharacterStates.Hit)
         {
             rigidbody2D.AddForce(new Vector2(0, jumpForce));
-            state = CharacterStates.Jumping;
+            isJump = true;
         }
+    }
+
+    void HitEffect(int damage, Vector2 direcao)
+    {
+        //Não me pergunte porque o rigibody2d ficar null depois de reiniciar a fase durante
+        //alguns frames
+        if (lastMove != 0)
+        {
+
+            if (lastMove < 0)
+                rigidbody2D.velocity = hitForce * Vector2.right;
+            else
+                rigidbody2D.velocity = hitForce * Vector2.left;
+        }
+        else
+        {
+
+            if (direcao.x > 0)
+                rigidbody2D.velocity = hitForce * Vector2.right;
+            else if (direcao.x < 0)
+                rigidbody2D.velocity = hitForce * Vector2.left;
+
+        }
+        rigidbody2D.velocity += Vector2.up * hitForce / 3;
+        vida -= vida <= 0 ? 0 : damage;
+        state = CharacterStates.Hit;
     }
 
     // Update is called once per frame
@@ -135,12 +173,15 @@ public class Jogador : MonoBehaviour
         {
             Move();
             Jump();
-            if (Input.GetKey("t"))
-            {
-                state = CharacterStates.Dead;
-            }
-            Animation();
         }
+        else if (state != CharacterStates.None)
+            state = CharacterStates.Dead;
+        Animation();
+    }
+
+    void OnDestroy()
+    {
+        Inimigo.onAtack -= HitEffect;
     }
 
     void OnCollisionEnter2D(Collision2D collision)
@@ -149,6 +190,7 @@ public class Jogador : MonoBehaviour
         {
             anime.SetBool("Jump", false);
             state = CharacterStates.None;
+            isJump = false;
         }
     }
 
