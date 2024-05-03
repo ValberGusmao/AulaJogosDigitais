@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "C:\\UNITY_PROJECTS\\Aula_JogosDigitais\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26AFF37C-2B34-9025-BDB5-C4D5C3F6F4B6}|Assembly-CSharp.csproj|C:\\UNITY_PROJECTS\\Aula_JogosDigitais\\assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26AFF37C-2B34-9025-BDB5-C4D5C3F6F4B6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26AFF37C-2B34-9025-BDB5-C4D5C3F6F4B6}|Assembly-CSharp.csproj|c:\\unity_projects\\aula_jogosdigitais\\assets\\scripts\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26AFF37C-2B34-9025-BDB5-C4D5C3F6F4B6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26AFF37C-2B34-9025-BDB5-C4D5C3F6F4B6}|Assembly-CSharp.csproj|C:\\UNITY_PROJECTS\\Aula_JogosDigitais\\assets\\scripts\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26AFF37C-2B34-9025-BDB5-C4D5C3F6F4B6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26AFF37C-2B34-9025-BDB5-C4D5C3F6F4B6}|Assembly-CSharp.csproj|C:\\UNITY_PROJECTS\\Aula_JogosDigitais\\assets\\scripts\\limitetela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26AFF37C-2B34-9025-BDB5-C4D5C3F6F4B6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\limitetela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26AFF37C-2B34-9025-BDB5-C4D5C3F6F4B6}|Assembly-CSharp.csproj|C:\\UNITY_PROJECTS\\Aula_JogosDigitais\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26AFF37C-2B34-9025-BDB5-C4D5C3F6F4B6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26AFF37C-2B34-9025-BDB5-C4D5C3F6F4B6}|Assembly-CSharp.csproj|C:\\UNITY_PROJECTS\\Aula_JogosDigitais\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26AFF37C-2B34-9025-BDB5-C4D5C3F6F4B6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26AFF37C-2B34-9025-BDB5-C4D5C3F6F4B6}|Assembly-CSharp.csproj|C:\\UNITY_PROJECTS\\Aula_JogosDigitais\\assets\\scripts\\backgroundgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26AFF37C-2B34-9025-BDB5-C4D5C3F6F4B6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26AFF37C-2B34-9025-BDB5-C4D5C3F6F4B6}|Assembly-CSharp.csproj|c:\\unity_projects\\aula_jogosdigitais\\assets\\tilemap\\brushes\\tint brush smooth\\scripts\\tinttexturegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AFF37C-2B34-9025-BDB5-C4D5C3F6F4B6}|Assembly-CSharp.csproj|solutionrelative:assets\\tilemap\\brushes\\tint brush smooth\\scripts\\tinttexturegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,94 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LimiteTela.cs",
-              "DocumentMoniker": "C:\\UNITY_PROJECTS\\Aula_JogosDigitais\\Assets\\Scripts\\LimiteTela.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\LimiteTela.cs",
-              "ToolTip": "C:\\UNITY_PROJECTS\\Aula_JogosDigitais\\Assets\\Scripts\\LimiteTela.cs",
-              "RelativeToolTip": "Assets\\Scripts\\LimiteTela.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T15:11:14.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GameController.cs",
-              "DocumentMoniker": "C:\\UNITY_PROJECTS\\Aula_JogosDigitais\\Assets\\Scripts\\GameController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
-              "ToolTip": "C:\\UNITY_PROJECTS\\Aula_JogosDigitais\\Assets\\Scripts\\GameController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T15:11:05.287Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Inimigo.cs",
-              "DocumentMoniker": "C:\\UNITY_PROJECTS\\Aula_JogosDigitais\\Assets\\Scripts\\Inimigo.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Inimigo.cs",
-              "ToolTip": "C:\\UNITY_PROJECTS\\Aula_JogosDigitais\\Assets\\Scripts\\Inimigo.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Inimigo.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowC4AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T13:21:14.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Jogador.cs",
-              "DocumentMoniker": "C:\\UNITY_PROJECTS\\Aula_JogosDigitais\\Assets\\Scripts\\Jogador.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Jogador.cs",
-              "ToolTip": "C:\\UNITY_PROJECTS\\Aula_JogosDigitais\\Assets\\Scripts\\Jogador.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Jogador.cs",
-              "ViewState": "AQIAAKsAAAAAAAAAAAAiwLoAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T23:25:41.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BackgroundGenerator.cs",
-              "DocumentMoniker": "C:\\UNITY_PROJECTS\\Aula_JogosDigitais\\Assets\\Scripts\\BackgroundGenerator.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundGenerator.cs",
-              "ToolTip": "C:\\UNITY_PROJECTS\\Aula_JogosDigitais\\Assets\\Scripts\\BackgroundGenerator.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BackgroundGenerator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T12:17:00.096Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Coin.cs",
-              "DocumentMoniker": "C:\\UNITY_PROJECTS\\Aula_JogosDigitais\\Assets\\Scripts\\Coin.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Coin.cs",
-              "ToolTip": "C:\\UNITY_PROJECTS\\Aula_JogosDigitais\\Assets\\Scripts\\Coin.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Coin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Title": "TintTextureGenerator.cs",
+              "DocumentMoniker": "C:\\UNITY_PROJECTS\\Aula_JogosDigitais\\Assets\\Tilemap\\Brushes\\Tint Brush Smooth\\Scripts\\TintTextureGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Tilemap\\Brushes\\Tint Brush Smooth\\Scripts\\TintTextureGenerator.cs",
+              "ToolTip": "C:\\UNITY_PROJECTS\\Aula_JogosDigitais\\Assets\\Tilemap\\Brushes\\Tint Brush Smooth\\Scripts\\TintTextureGenerator.cs",
+              "RelativeToolTip": "Assets\\Tilemap\\Brushes\\Tint Brush Smooth\\Scripts\\TintTextureGenerator.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAmwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T12:31:17.505Z",
+              "WhenOpened": "2024-04-30T12:08:13.889Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CameraController.cs",
-              "DocumentMoniker": "C:\\UNITY_PROJECTS\\Aula_JogosDigitais\\Assets\\Scripts\\CameraController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
-              "ToolTip": "C:\\UNITY_PROJECTS\\Aula_JogosDigitais\\Assets\\Scripts\\CameraController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCgAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T12:26:47.771Z"
             }
           ]
         }
